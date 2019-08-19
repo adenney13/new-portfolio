@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83d8c14a.chunk.css",
+    "main.js": "/static/js/main.2b8707bd.chunk.js",
+    "main.js.map": "/static/js/main.2b8707bd.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.987cfcb6.chunk.js": "/static/js/2.987cfcb6.chunk.js",
+    "static/js/2.987cfcb6.chunk.js.map": "/static/js/2.987cfcb6.chunk.js.map",
+    "9dd5fb5ba8f8398059eb.worker.js": "/9dd5fb5ba8f8398059eb.worker.js",
+    "9dd5fb5ba8f8398059eb.worker.js.map": "/9dd5fb5ba8f8398059eb.worker.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7d1a03237aa07e22da090df6681bd4c1.js": "/precache-manifest.7d1a03237aa07e22da090df6681bd4c1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.83d8c14a.chunk.css.map": "/static/css/main.83d8c14a.chunk.css.map",
+    "static/media/CheatMeal.png": "/static/media/CheatMeal.3c9dc27b.png",
+    "static/media/JustAnotherDay.png": "/static/media/JustAnotherDay.357fdaf7.png",
+    "static/media/TornadosFC.png": "/static/media/TornadosFC.248bb902.png",
+    "static/media/profile-pic.PNG": "/static/media/profile-pic.c07b2828.PNG"
+  }
+}
